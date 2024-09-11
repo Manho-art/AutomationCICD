@@ -1,0 +1,16 @@
+[
+{
+  "email" : "examples@gmail.com",
+  "password": "Automation@123",
+  "product" : "ZARA COAT 3"
+    
+},
+
+{
+    "email" : "samples@gmail.com",
+    "password": "Automation!123",
+    "product" : "ADIDAS ORIGINAL"
+    
+}
+
+]

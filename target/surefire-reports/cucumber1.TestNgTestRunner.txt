@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cucumber1.TestNgTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 67.02 s -- in cucumber1.TestNgTestRunner
